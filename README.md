@@ -2,6 +2,6 @@ Test project to start and try out Rest API NodeJS app server with express and mo
 
 To run app server:
 
-npm i - to install node modules
-provide MongoDB connection string in .env file
-npm run start - to run app
+1) npm i - to install node modules;  
+2) provide MongoDB connection string in .env file;  
+3) npm run start - to run app;
